@@ -3,7 +3,7 @@ long long int sumOrProduct(long long int n, long long int q)
 {
 	int sum;
 	int product;
-	int module;
+	
 	// Write your code here.
 
 	if(q==1){
