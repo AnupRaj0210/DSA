@@ -1,9 +1,6 @@
 #include <bits/stdc++.h> 
 long long int sumOrProduct(long long int n, long long int q)
 {
-	int sum;
-	int product;
-	
 	// Write your code here.
 
 	if(q==1){
